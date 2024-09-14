@@ -1,0 +1,43 @@
+{
+	"name": "Extension Codigo",
+	"type": "dark",
+  "colors": {
+    "editor.background": "#1e1e1e",
+    "editor.foreground": "#d4d4d4",
+    "editorCursor.foreground": "#dcdcdc",
+    "editor.lineHighlightBackground": "#2a2d2e",
+    "editorLineNumber.foreground": "#858585",
+    "editor.selectionBackground": "#264f78",
+    "activityBar.background": "#333",
+    "sideBar.background": "#252526",
+    "titleBar.activeBackground": "#007acc",
+    "statusBar.background": "#007acc",
+    "statusBar.foreground": "#ffffff"
+  },
+  "tokenColors": [
+    {
+      "scope": "comment",
+      "settings": {
+        "foreground": "#6a9955"
+      }
+    },
+    {
+      "scope": "keyword",
+      "settings": {
+        "foreground": "#569cd6"
+      }
+    },
+    {
+      "scope": "variable",
+      "settings": {
+        "foreground": "#9cdcfe"
+      }
+    },
+    {
+      "scope": "string",
+      "settings": {
+        "foreground": "#ce9178"
+      }
+    }
+  ]
+}

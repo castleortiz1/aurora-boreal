@@ -1,0 +1,32 @@
+{
+  "name": "aurora-boreal",
+  "displayName": "Aurora Boreal",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.93.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Extension Codigo",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Extension Codigo-color-theme.json"
+      }
+    ]
+  },
+  "icon": "icons/matrix.png",
+  "author": {
+    "name": "Jonathan Castillo",
+    "email": "jotacato3@gmail.com",
+    "url": "https://www.linkedin.com/in/jonathan-castle-a8a88b14b/"
+  },
+  "repository": {
+    "url": "https://github.com/castleortiz1/extension-matrix-vs",
+    "type": "git"
+  },
+  "publisher": "codigo-aurora"
+}
